@@ -1,2 +1,2 @@
-# wiki
-A hook for our Org-wide Wiki pages
+Please proceed directly to the actual wiki, at
+https://github.com/OpenDiffusionAI/wiki/wiki
